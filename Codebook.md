@@ -1321,7 +1321,7 @@ This data frame has 10299 obs. of  68 variables (subject, activity and 66 extrac
  
  $ fBodyBodyGyroJerkMag-std() : num  -0.991 -0.996 -0.995 -0.995 -0.995 ...
 
-### Extracted Features Vector of Indexes for Mean and Standard Deviation (from dataset in  feautures.txt ).
+### Extracted Features Vector of Indexes for Mean and Standard Deviation (from dataset in 'features.txt').
 
 c(1, 2, 3, 4, 5, 6, 41, 42, 43, 44, 45, 46, 81, 82, 83, 84, 85, 86, 121, 122, 123, 124, 125, 126, 161, 162, 163, 164, 165, 166, 201, 202, 214, 215, 227, 228, 240, 241, 253, 254, 266, 267, 268, 269, 270, 271, 345, 346, 347, 348, 349, 350, 424, 425, 426, 427, 428, 429, 503, 504, 516, 517, 529, 530, 542, 543)
 
